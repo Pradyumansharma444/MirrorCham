@@ -1,0 +1,17 @@
+{
+  "name": "MirrorUp - Master Your Voice",
+  "short_name": "MirrorUp",
+  "description": "Practice speaking to your reflection. Get instant AI feedback. Level up your communication skills.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDFBE7",
+  "theme_color": "#35f292",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

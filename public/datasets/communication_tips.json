@@ -1,0 +1,51 @@
+[
+  {
+    "id": "tip_pace_slow",
+    "category": "Pacing",
+    "title": "Control Your Speed",
+    "message": "Speaking too fast makes you sound nervous. Aim for 130-150 words per minute (WPM).",
+    "exercise": "Take a short news article. Set a 1-minute timer and try to read exactly 130 words, placing intentional 1-second pauses after every period."
+  },
+  {
+    "id": "tip_fillers",
+    "category": "Clarity",
+    "title": "Slay the Fillers",
+    "message": "Fillers like 'um', 'uh', and 'like' degrade your authority. Replace them with quiet, confident pauses.",
+    "exercise": "Speak about your favourite movie for 1 minute. Each time you feel the urge to say 'like' or 'um', close your mouth, swallow, and pause for 1 second instead."
+  },
+  {
+    "id": "tip_vocal_variety",
+    "category": "Vocal Variety",
+    "title": "Use Pitch and Modulation",
+    "message": "A flat monotone voice bores listeners. Slide your pitch up for excitement and drop it down for key emphasis.",
+    "exercise": "Perform the 'Siren Exercise': make a 'whoop' sound sliding your voice from your lowest comfortable register to your highest, then back down."
+  },
+  {
+    "id": "tip_active_listening",
+    "category": "Active Listening",
+    "title": "Echo and Validate",
+    "message": "Good conversation is 60% listening. Restate what the other person said to show alignment before adding your perspective.",
+    "exercise": "In your next conversation, start your responses with 'So, if I understand correctly, you're saying...' to validate the other person's point."
+  },
+  {
+    "id": "tip_hook_story",
+    "category": "Storytelling",
+    "title": "Start with a Hook",
+    "message": "Begin stories with action or an intriguing question instead of dry background facts to grab attention immediately.",
+    "exercise": "Create a 30-second introduction for a story that starts with: 'I will never forget the day when...' or 'Have you ever had to choose between...'"
+  },
+  {
+    "id": "tip_interviews",
+    "category": "Interviews",
+    "title": "The STAR Method",
+    "message": "Structure behavioral questions with: Situation, Task, Action, and Result to deliver concise and impact-driven answers.",
+    "exercise": "Write down a past achievement. Script a 2-minute answer allocating 15s to Situation/Task, 45s to Action, and 15s to the quantitative Result."
+  },
+  {
+    "id": "tip_gestures",
+    "category": "Posture",
+    "title": "Gesture within the Box",
+    "message": "Keep hand gestures natural and centered between your chest and waist. Avoid wild hand-waving or stiff arm postures.",
+    "exercise": "Stand in front of a mirror (or look at your camera feed) and speak for 1 minute. Keep your elbows relaxed near your sides and gesturate intentionally only to highlight action verbs."
+  }
+]

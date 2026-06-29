@@ -1,0 +1,14 @@
+[
+  {"id":"no_fillers","name":"No Fillers","description":"Do not use any filler words (um, uh, like, you know, actually).","minLevel":3,"difficulty":1},
+  {"id":"no_pause_gt_2s","name":"No Long Pauses","description":"Do not pause for more than 2 seconds at any point.","minLevel":10,"difficulty":2},
+  {"id":"min_advanced_words_3","name":"Word Master (3)","description":"Use at least 3 advanced vocabulary words.","minLevel":5,"difficulty":1},
+  {"id":"min_advanced_words_5","name":"Word Master (5)","description":"Use at least 5 advanced vocabulary words.","minLevel":15,"difficulty":2},
+  {"id":"min_words_150","name":"Word Count (150)","description":"Speak at least 150 words.","minLevel":10,"difficulty":2},
+  {"id":"min_words_200","name":"Word Count (200)","description":"Speak at least 200 words.","minLevel":20,"difficulty":3},
+  {"id":"start_with_question","name":"Start with Question","description":"Begin your speech with a rhetorical question.","minLevel":8,"difficulty":1},
+  {"id":"use_3_adjectives","name":"Adjective Challenge","description":"Use at least 3 descriptive adjectives.","minLevel":6,"difficulty":1},
+  {"id":"tell_story","name":"Story Mode","description":"Frame your response as a narrative with a beginning, middle, and end.","minLevel":12,"difficulty":2},
+  {"id":"no_repeated_words","name":"No Repetition","description":"Do not repeat any word more than 3 times.","minLevel":25,"difficulty":3},
+  {"id":"use_metaphor","name":"Metaphor Master","description":"Include at least one metaphor in your speech.","minLevel":18,"difficulty":2},
+  {"id":"maintain_pace","name":"Pace Control","description":"Keep your WPM between 120-140 for the entire session.","minLevel":20,"difficulty":3}
+]
