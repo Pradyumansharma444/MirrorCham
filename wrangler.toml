@@ -1,0 +1,7 @@
+name = "mirrorup"
+main = "dist/boot.js"
+compatibility_date = "2026-06-29"
+compatibility_flags = [ "nodejs_compat" ]
+
+[assets]
+directory = "./dist/public"
