@@ -872,17 +872,17 @@ export default function Live() {
           {/* Manual input panel */}
           <div className="bg-white dark:bg-zinc-900 border-[3px] border-black rounded-2xl p-6 shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] max-w-xl mx-auto">
             <h2 className="text-sm font-black uppercase tracking-wider mb-3">Join Session Manually</h2>
-            <form onSubmit={handleManualCodeJoin} className="flex gap-3">
+            <form onSubmit={handleManualCodeJoin} className="flex flex-col sm:flex-row gap-3">
               <input
                 type="text"
                 value={manualCode}
                 onChange={(e) => setManualCode(e.target.value)}
                 placeholder="Paste Session Host ID code here..."
-                className="flex-1 px-4 py-2 bg-[#FFFDF0] dark:bg-zinc-800 border-2 border-black rounded-xl font-bold placeholder:text-zinc-400 focus:outline-none"
+                className="flex-1 px-4 py-2 bg-[#FFFDF0] dark:bg-zinc-800 border-2 border-black rounded-xl font-bold placeholder:text-zinc-400 focus:outline-none w-full"
               />
               <button
                 type="submit"
-                className="px-6 py-2 bg-primary text-black border-2 border-black rounded-xl font-black text-xs hover:scale-105 active:scale-95 transition-transform"
+                className="px-6 py-2 bg-primary text-black border-2 border-black rounded-xl font-black text-xs hover:scale-105 active:scale-95 transition-transform w-full sm:w-auto"
               >
                 Connect ID
               </button>
