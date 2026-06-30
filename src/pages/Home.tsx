@@ -34,33 +34,7 @@ export default function Home() {
       {/* Main Hero (Exactly matching the first image style) */}
       <section className="flex-1 py-12 md:py-20 px-6 max-w-4xl mx-auto text-center flex flex-col items-center">
         
-        {/* Trusted By Section (matching top of first image) */}
-        <div className="mb-14 w-full">
-          <h2 className="text-xl md:text-3xl font-black mb-6 flex items-center justify-center gap-1.5 flex-wrap">
-            Trusted by 
-            <span className="inline-flex items-center justify-center bg-pink-200 text-black px-2 py-0.5 rounded-full border-2 border-black text-sm font-black mx-1">
-              87%
-            </span>
-            of aspiring public speakers.
-          </h2>
-          
-          {/* Box cards wall representing company logo style in neobrutalism */}
-          <div className="flex flex-wrap justify-center gap-4 max-w-xl mx-auto relative h-auto py-2">
-            {[
-              { text: "Google", rotate: "-rotate-2" },
-              { text: "Humana", rotate: "rotate-3" },
-              { text: "Citibank", rotate: "-rotate-1" },
-              { text: "IBM", rotate: "rotate-2", styled: "font-mono font-extrabold tracking-widest text-zinc-500" }
-            ].map((logo, idx) => (
-              <div
-                key={idx}
-                className={`bg-white text-black px-6 py-3 rounded-lg border-2 border-black font-extrabold text-sm shadow-[3px_3px_0px_0px_rgba(0,0,0,1)] ${logo.rotate} hover:rotate-0 transition-transform duration-200`}
-              >
-                <span className={logo.styled || ""}>{logo.text}</span>
-              </div>
-            ))}
-          </div>
-        </div>
+
 
         {/* Floating badge */}
         <div className="bg-[#D0E7FF] text-black px-4 py-1.5 rounded-md border-2 border-black font-bold text-xs md:text-sm mb-6 shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]">
